@@ -2,24 +2,25 @@
 
 Installation
 ===
-[Locating the LPC & D0 Point.pdf](./"Locating the LPC & D0 Point.pdf")
+- [Locating_the_LPC_&_D0_Point.pdf](Locating_the_LPC_&_D0_Point.pdf)
 
-https://www.xbox-scene.info/tutorials/article/43-nemesis-xenium-modchip-installation-guide-for-rev-10-14/
+- https://www.xbox-scene.info/tutorials/article/43-nemesis-xenium-modchip-installation-guide-for-rev-10-14/
 
-also [Pin Header Install Guide - R1.1.pdf](Pin Header Install Guide - R1.1.pdf)
-please note; the black ground wire is not required, only the D0 wire
+- also [Pin_header_install_guide.pdf](Pin_header_install_guide.pdf)
+> [!NOTE]
+> the black ground wire is not required, only the D0 wire
 (ground is connected on the LPC header).
 
 Usage
 ===
-[Prometheos guide.pdf](Prometheos guide.pdf)
+- [Prometheos_guide.pdf](Prometheos_guide.pdf)
 
-https://github.com/Team-Resurgent/Modxo
+- https://github.com/Team-Resurgent/Modxo
 
-The button is only required when connecting
-to a PC to flash a firmware.
+> [!NOTE]
+> The button is only required when connecting to a PC to flash a firmware.
 
 Credits
 ===
-Team Resurgent
+- Team Resurgent  
 https://github.com/Team-Resurgent/Modxo
